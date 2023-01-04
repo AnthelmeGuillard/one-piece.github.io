@@ -1,0 +1,67 @@
+<html lang="fr">
+	<head>
+		<meta http-equiv="content-type" content="text/html"; charset="UTF-8">
+		<meta charset="UTF-8">
+		<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap" rel="stylesheet"> 
+		<link rel="stylesheet" href="Style/Style2.css">
+		<link rel="shortcut icon" href="images/icon.ico" />
+		<script type="text/javascript" src="javascript/javascript.js"></script>
+	</head>
+	<body>
+	<body>
+		<nav class="navbar">
+			<img class="logo" src="images/icon.png" alt="Logo"  />
+			<div class="nav-link" >
+				<ul>
+					<li><a href="index.html">Home</li>
+					<li><a href="personnage.html">Personnages</li>
+					<li><a href="histoire.html">Histoire</li>
+				</ul>
+			</div>
+		</nav>
+	<p>
+			<table class="table">
+			<tr>
+				<td></td>
+				<td class="texte">Luffy :</td>
+				<td class="texte">Ussop :</td> 
+				<td class="texte">Zoro :</td> 
+				<td class="texte">Nami :</td>
+				<td class="texte">Chopper :</td>
+				<td class="texte">Sanji :</td>
+				<td class="texte">Robin :</td>
+				<td class="texte">Franky :</td>
+				<td class="texte">Brook :</td>
+				<td class="texte">Jinbe :</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><img class="fit-picture" src="images/Luffy.png"> </td>
+				<td><img class="fit-picture" src="images/Ussop.png"> </td> 
+				<td><img class="fit-picture" src="images/Zoro.png"> </td> 
+				<td><img class="fit-picture" src="images/Nami.png"> </td>
+				<td><img class="fit-picture" src="images/Chopper.png"> </td>
+				<td><img class="fit-picture" src="images/Sanji.png"> </td>
+				<td><img class="fit-picture" src="images/NRobin.png"> </td>
+				<td><img class="fit-picture" src="images/Franky.png"> </td>
+				<td><img class="fit-picture" src="images/Brook.png"> </td>
+				<td><img class="fit-picture" src="images/jinbe.png"> </td>
+			</tr>
+			<tr>
+				<td class="texte">Prime:</td>
+				<td class="texte">3.000.000.000</td>
+				<td class="texte">500.000.000</td>
+				<td class="texte">1.111.000.000</td>
+				<td class="texte">366.000.000</td>
+				<td class="texte">1.000</td>
+				<td class="texte">1.032.000.000</td>
+				<td class="texte">930.000.000</td>
+				<td class="texte">394.000.000</td>
+				<td class="texte">383.000.000</td>
+				<td class="texte">1.100.000.000</td>
+			</tr>	
+	</table>
+	</p>
+	</body>
+</html>
+	 
