@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta http-equiv="content-type" content="text/html"; charset="UTF-8">
+		<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap" rel="stylesheet"> 
+		<link rel="stylesheet" href="Style/Style2.css">
+		<link rel="shortcut icon" href="images/icon.ico" />
+		<title> One pièce </title>
+	</head>
+	<body>
+		<nav class="navbar">
+			<img class="logo" src="images/icon.png" alt="Logo"  />
+			<div class="nav-link" >
+				<ul>
+					<li><a href="index.html">Home</li>
+					<li><a href="personnage.html">Personnages</li>
+					<li><a href="histoire.html">Histoire</li>
+				</ul>
+			</div>
+		</nav>
+	</body>
+		</nav>
+		<nav class="navbar2">
+			<div class="nav-link2" >
+				<ul>
+					<li><a class="titre_texte">Bienvenue sur mon site web</li>
+					<li><a class="texte">Vous pourrez y retrouver les primes récentes des différents membres principaux des Mugiwara<br>
+ 					ainsi que le résumé de tous les arcs !
+					</li>
+					<li><img src="images/mugiwara.png"></li>
+					<li><a class="textesousphoto" >Photo : Ils sont l'accent principal et les protagonistes de l'anime et du manga One Piece<br>
+					et sont dirigés par le protagoniste principal, Monkey D. Luffy.
+					</li>
+					<li><a class="titre_texte2">Son histoire :</li>
+					<li><a class="texte">One Piece est une série de mangas shōnen créée par Eiichirō Oda. Elle est prépubliée depuis le 22<br>
+					juillet 1997 dans le magazine hebdomadaire Weekly Shōnen Jump, puis regroupée en Tankōbon aux<br>
+					éditions Shūeisha depuis le 24 décembre 1997. 104 tomes sont commercialisés au Japon en<br>
+					novembre 2022. La version française est publiée en volumes reliés depuis le 1er septembre 2000<br>
+					par Glénat, et 102 volumes sont commercialisés en septembre 2022. Depuis le 26 septembre 2021<br>
+					la version française est prépubliée simultanément avec la version japonaise sur les plates-formes<br>
+					en ligne Manga Plus et Glénat Manga Max.	
+					</li>
+					<li><a class="titre_texte2">Introduction :</li>
+					<li><a class="texte">L'histoire suit les aventures de Monkey D. Luffy, un garçon dont le corps a acquis les propriétés<br>
+					du caoutchouc après avoir mangé par inadvertance un fruit du démon. Avec son équipage de pirates<br>
+					appelé l'équipage de Chapeau de paille, Luffy explore Grand Line à la recherche du trésor ultime<br>
+					connu sous le nom de « One Piece » afin de devenir le prochain roi des pirates.	<br>
+					</li>
+				</ul>
+			</div>
+		</nav>	
+		<footer class="testfooter">
+			<p><h4>Source : </h4></p>
+		</footer>
+	</body>
+</html>
+	 
