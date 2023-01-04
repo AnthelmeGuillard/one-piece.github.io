@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta http-equiv="content-type" content="text/html"; charset="UTF-8">
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="Style/Style.css">
+		<link rel="shortcut icon" href="images/icon.ico" />
+		<title> One pièce </title>
+	</head>
+	<body>
+		<header>
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="images/icon.png" alt="Logo" /></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td><a class="button" href="histoire.html" style="color:#000000;">Histoire</a></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td><a class="button" href="personnage.html" style="color:#000000;">Personnage</a></td>
+				</tr>
+			</table>	
+		</header>
+	</body>
+</html>
