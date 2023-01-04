@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta http-equiv="content-type" content="text/html"; charset="UTF-8">
+		<meta charset="UTF-8">
+		<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="Style/Style2.css">
+		<link rel="shortcut icon" href="images/icon.ico" />
+	</head>
+	<body>
+	<title> One pièce histoire </title>
+	<body>
+		<nav class="navbar">
+			<img class="logo" src="images/icon.png" alt="Logo"  />
+			<div class="nav-link" >
+				<ul>
+					<li><a href="index.html">Home</li>
+					<li><a href="personnage.html">Personnages</li>
+					<li><a href="histoire.html">Histoire</li>
+				</ul>
+			</div>
+		</nav>
+		<p>
+		<table class="table2">
+			<tr>
+				<td><a class="textetable2" href="#"></a>EAST BLEU</td>
+				<td><a class="textetable2" href="#"></a>Baroque Works</td> 
+				<td><a class="textetable2" href="#"></a>Skypiea</td> 
+			</tr>
+			<tr>
+				<td><img class="imagehistoire" src="images/saga_east_blue.png"></td>
+				<td><img class="imagehistoire" src="images/saga_baroque_works.png"></td> 
+				<td><img class="imagehistoire" src="images/saga-skypiea.png"></td> 
+			</tr>
+			<tr>
+				<td><a class="textetable2" href="#"></a>Water 7</td>
+				<td><a class="textetable2" href="#"></a>Thriller Bark</td>
+				<td><a class="textetable2" href="#"></a>Guerre au sommet</td>				
+			</tr>
+			<tr>
+				<td><img class="imagehistoire" src="images/saga-water-7.png"></td>
+				<td><img class="imagehistoire" src="images/saga-thriller-bark.png"></td>
+				<td><img class="imagehistoire" src="images/saga-guerre-au-sommet.png"></td>			
+			<tr>
+				<td><a class="textetable2" href="#"></a>Île des hommes-poissons</td>
+				<td><a class="textetable2" href="#"></a>Alliance Pirates</td>
+				<td><a class="textetable2" href="#"></a>Quatre Empereurs</td>
+			</tr>
+			<tr>
+				<td><img class="imagehistoire" src="images/ile-des-hommes-poissons.png"></td>
+				<td><img class="imagehistoire" src="images/saga-alliance-pirate.png"></td>
+				<td><img class="imagehistoire" src="images/saga-quatre-empereurs.png"></td>
+			</tr>
+		</table>
+		</p>
+	</body>
+</html>
+
