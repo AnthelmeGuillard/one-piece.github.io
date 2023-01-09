@@ -1,0 +1,135 @@
+* { 
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+}
+
+html, body{
+	font-family: 'Raleway', sans-serif;
+	background-color: black;
+	min-height: 100%;
+	height: 100%;
+	margin: 0; padding: 0;
+}
+
+
+header{
+	height: 100vh;
+	width: 100vw;
+	background-size: cover ;
+
+}
+
+.testfooter {
+	color: black;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color:white;
+	height:35px;
+}
+
+.navbar {
+	padding: 50px;
+	display: flex;
+	justify-content: space-between ;
+	/*align-items: center;*/
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.navbar .logo {
+	width: 10em;
+	height: auto;
+}
+.navbar a {
+	color: white;
+}
+
+.navbar a:hover {
+  color: #3485f1;
+  border-color: #3485f1;
+}
+
+.navbar .nav-link {
+	display: flex;
+	align-items: center;
+}
+
+.navbar .nav-link ul {
+	display: flex;
+}
+
+.navbar .nav-link ul li {
+	margin: 0 30px;
+	font-size: 3.5em;
+	font-weight: bold;
+}
+
+.texte{
+	color: white;
+	text-align: center;
+}
+.table {
+	table-layout: auto;
+	width: 100%;
+	text-align: center;
+	margin-top: 200px;
+}
+
+.navbar2 {
+	position: absolute;
+	padding: 100px;
+	display: flex;
+	justify-content: space-between ;
+	align-items: center;
+	width: 100%;
+	box-sizing: border-box;
+	text-align: center;
+	top: 15%
+}
+
+.navbar2 .nav-link2 {
+	display: flex;
+	align-items: center;
+}
+
+.titre_texte{
+	color: white;
+	text-align: center;
+	font-size: 300%;
+}
+
+.titre_texte2{
+	color: white;
+	text-align: center;
+	font-size: 235%;
+}
+
+
+.navbar2 .nav-link2 ul li {
+	margin: 30px;
+}
+
+.textesousphoto{
+	color: white;
+	text-align: center;
+	font-size: 65%;
+	margin: 10px;
+}
+
+.table2{
+	table-layout: auto;
+	width: 100%;
+	text-align: center;
+	margin-top: 200px;
+	color: white;
+	border-spacing: 30px;
+	font-size: 2em;
+}
+
+.imagehistoire{
+	width: 10em;
+	height: auto;
+}
